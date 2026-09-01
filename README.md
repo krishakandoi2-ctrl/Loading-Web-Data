@@ -1,4 +1,4 @@
-# Lab 9 - Loading Web Data
+#  Loading Web Data
 
 CSCI 2020U: Software Systems Development and Integration
 
